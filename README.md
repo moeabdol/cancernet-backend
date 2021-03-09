@@ -13,5 +13,7 @@ The model was trained using a Convuloutional Neural Network, and have reached an
 accuracy of %79 after 40 epochs.
 
 ![][classification_report]
+![][accuracy_loss_plot]
 
 [classification_report]:https://github.com/moeabdol/cancernet-backend/blob/master/classification_report.png
+[accuracy_loss_plot]:https://github.com/moeabdol/cancernet-backend/blob/master/plot.png
